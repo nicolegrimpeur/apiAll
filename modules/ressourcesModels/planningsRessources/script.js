@@ -49,6 +49,7 @@ function reset() {
   fs.writeFileSync(path + 'log/log.json', JSON.stringify(log, null, 2));
 }
 
+// on crée un job qui se lance tous les dimanches à 1h
 const job = new CronJob(
     '0 1 * * 0', // cronTime
     reset, // onTick

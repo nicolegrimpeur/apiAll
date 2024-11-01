@@ -32,7 +32,7 @@ export function getInfosAVerifier (req, res) {
 
 export function getListeResidences (req, res) {
     const isAVerifier = String(req.params.name);
-    console.log(isAVerifier);
+
     const textes = JSON.parse(fs.readFileSync(path + (isAVerifier === 'true' ? 'aVerifier/' : 'infos/') + 'listeResidences.json'));
     res.status(200).json(textes);
 }
