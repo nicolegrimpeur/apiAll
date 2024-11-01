@@ -1,0 +1,40 @@
+{
+  "langue": "fr",
+  "name": "Denis Reille",
+  "news": [
+    "💖 Nouveautés : Ajout de la résidence sur l'appli !",
+    "Pour afficher les informations recherchées, il vous suffit de cliquer sur le bouton correspondant ⬇"
+  ],
+  "nameLiens": "",
+  "liens": [],
+  "nameInfos": "Infos",
+  "infos": [
+    {
+      "id": "Le petit déjeuner",
+      "content": [
+        "La salle du petit déjeuner est situé au rez-de-chaussée et est ouverte entre 7H et 9H",
+        "",
+        "Vous trouverez dedans tout ce qu'il vous faut pour petit-déjeuner (boissons : thé, café, chocolat chaud, jus d'orange, jus de pomme; pain blanc, pain platine; confiture, pâte à tartiner, beurre; céréales) !",
+        "La vaisselle n'est pas fournie, pensez à ramener la vôtre !"
+      ]
+    },
+    {
+      "id": "Les salles communes",
+      "content": [
+        "Les cuisines d’étages se trouvent aux 2ème, 4ème, 5ème et 6ème étages, à côté de l'ascenseur."
+      ]
+    }
+  ],
+  "idAffichage": {
+    "liens": "",
+    "infos": "div_infosDR"
+  },
+  "bullesLien": [],
+  "colInfo": [
+    {
+      "title": "ADRESSE",
+      "info1": "Résidence Denis Reille",
+      "info2": "<a title=\"Lien vers Google Maps\" href=\"https://goo.gl/maps/A9gB5QTjPqkP3kUe9\" target=\"_blank\"> 7bis Rue de la Digue, 59000 Lille </a>"
+    }
+  ]
+}

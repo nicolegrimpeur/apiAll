@@ -1,0 +1,50 @@
+{
+  "langue": "fr",
+  "name": "Saint Claude",
+  "news": [],
+  "nameLiens": "",
+  "liens": [],
+  "nameInfos": "Infos",
+  "infos": [
+    {
+      "id": "Le petit déjeuner",
+      "content": [
+        "La salle de petit-déjeuner est située dans la cuisine",
+        "Je vous rappelle que les jus, le lait, les céréales et autres aliments habituellement utilisés pour le petit-déjeuner sont disponibles le matin du lundi au vendredi."
+      ]
+    },
+    {
+      "id": "Cuisine",
+      "content": [
+        "La cuisine est à la disposition de tous. Si vous laissez tomber un ingrédient ou si vous vous salissez, essayez toujours de le nettoyer.",
+        "",
+        "Des casseroles et des poêles peuvent être trouvées dans la cuisine, mais il est conseillé d'apporter les vôtres, car leur présence n'est pas garantie.",
+        "Il est <b>fortement recommandé</b< d'emporter ses propres ustensiles de cuisine.",
+        "",
+        "Dans la cuisine, il y a des équipements tels que : micro-ondes, four, grille-pain, mixeur, machine à café de type américain."
+      ]
+    },
+    {
+      "id": "Machine à laver et sèche-linge",
+      "content": [
+        "Chaque semaine, vous trouverez un tableau avec les horaires pour réserver l'utilisation de la machine à laver et du sèche-linge.",
+        "",
+        "Il est très important de ne pas oublier de laisser la porte du lave-linge ouverte lorsque vous avez fini de l'utiliser, sinon l'humidité formera des moisissures."
+      ]
+    },
+    {
+      "id": "Salle commune",
+      "content": [
+        "Dans la salle commune, vous trouverez une télévision, une table de ping-pong et un baby foot."
+      ]
+    }
+  ],
+  "bullesLien": [],
+  "colInfo": [
+    {
+      "title": "ADRESSE",
+      "info1": "Résidence Saint Claude",
+      "info2": "<a title=\"Lien vers Google Maps\" href=\"https://goo.gl/maps/3nVptUxWaxMadh2Y6\" target=\"_blank\"> 178 Rue Sadi Carnot, Haubordin, 59320 </a>"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: large;
+  color: white;
+  margin: -24.120px 0;
+}
+
+.masthead {
+  height: 100vh;
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url(./assets/fond.jpg);
+  background-size: cover;
+}
+
+h1 {
+  padding-top: 5vh;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #c9c9c9;
+}
+
+.badge {
+  width: 25vh;
+}
+
+section {
+  margin: 100px 0;
+}
