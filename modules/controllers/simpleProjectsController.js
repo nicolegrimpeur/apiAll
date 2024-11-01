@@ -6,9 +6,6 @@ import fs from "fs";
 const __dirname = path.resolve('./' + Path);
 
 export function sendFile(req, res) {
-    console.log('sendFile');
-    console.log('req.originalUrl', req.originalUrl);
-    console.log('req.path', req.path);
     if (fs.existsSync(__dirname + req.originalUrl) && fs.statSync(__dirname + req.originalUrl).isFile()) {
         res.sendFile(__dirname + req.originalUrl);
     } else {
